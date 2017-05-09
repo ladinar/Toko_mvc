@@ -1,6 +1,6 @@
 # Toko_mvc
-Nama : Ladinar Nanda Aprilia
-Kelas : XIRPL1
-Absensi : 16
+Nama : Ladinar Nanda Aprilia</br>
+Kelas : XIRPL1</br>
+Absensi : 16</br>
 
 Aplikasi dengan mvc pada program netbeans
